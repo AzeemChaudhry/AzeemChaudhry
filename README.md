@@ -1,7 +1,7 @@
-```md
+
 <div align="center">
 
-# 💫 About Me
+
 
 # Hi there 👋
 
@@ -13,7 +13,7 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 ---
 
-## 🔭 Currently Building
+## Currently Building
 
 - **AEGIS** — A multi-agent AI research and reasoning system focused on planning, retrieval, structured reasoning, and intelligent decision-making.
 - **GovAI Environmental Assistant** — A production-grade Agentic RAG platform deployed on **Google Cloud Platform (GCP)** that enables users to query environmental health regulations across **62 California counties**, providing grounded and explainable responses.
@@ -21,13 +21,13 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 ---
 
-## 🌱 Currently Reading
+## Currently Reading
 
 - **Memory Caching: RNNs with Growing Memory** *(2026)* — Exploring how dynamically expanding memory enables recurrent neural networks to reason over much longer contexts more efficiently.
 
 ---
 
-## ⚡ Areas of Interest
+## Areas of Interest
 
 - Large Language Models (LLMs)
 - AI Agents & Multi-Agent Systems
@@ -40,7 +40,7 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 ---
 
-## 👯 Open to Collaborate On
+## Open to Collaborate On
 
 - AI-powered products
 - Open-source AI infrastructure
@@ -51,7 +51,7 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 - Python
 - FastAPI
@@ -69,7 +69,7 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 <div align="center">
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaudhryazeem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhry.azeem0308@gmail.com)
@@ -80,7 +80,7 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 <div align="center">
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -108,17 +108,17 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F61?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
-### Backend & APIs
+### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
 
 ### Databases
@@ -129,7 +129,6 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Cloud & DevOps
 
@@ -140,15 +139,29 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Tools
+</div>
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+---
+
+<div align="center">
+
+#  GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=AzeemChaudhry&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=AzeemChaudhry&theme=github_dark_dimmed)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AzeemChaudhry&theme=github_dark_dimmed&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=AzeemChaudhry&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 ```
