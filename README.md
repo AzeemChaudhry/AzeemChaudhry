@@ -81,16 +81,3 @@ I enjoy working at the intersection of **Large Language Models (LLMs), AI Agents
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat\&logo=gitlab\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat\&logo=jenkins\&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=AzeemChaudhry\&theme=github_dark_dimmed\&show_icons=true\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=AzeemChaudhry\&theme=github_dark_dimmed)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AzeemChaudhry\&theme=github_dark_dimmed\&layout=compact)
-
----
-
-![](https://komarev.com/ghpvc/?username=AzeemChaudhry\&color=0e75b6\&style=flat)
