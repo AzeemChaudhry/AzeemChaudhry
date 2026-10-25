@@ -1,0 +1,70 @@
+{
+  "username": "AzeemChaudhry",
+  "name": "Muhammad Azeem",
+  "title": "AI Engineer  ·  LLMs  ·  Agents  ·  RAG",
+  "subtitle": "Artificial Intelligence @ FAST-NUCES  ·  Islamabad, Pakistan",
+  "typing": [
+    "Building multi-agent reasoning systems",
+    "Shipping Agentic RAG to production on GCP",
+    "Turning research ideas into real products",
+    "FastAPI · LangChain · PyTorch · Qdrant"
+  ],
+
+  "building": [
+    {
+      "title": "AEGIS",
+      "description": "Multi-agent AI research and reasoning system focused on planning, retrieval, structured reasoning and intelligent decision-making.",
+      "tags": ["Multi-Agent", "Reasoning", "Retrieval"],
+      "status": "In development"
+    },
+    {
+      "title": "GovAI Environmental Assistant",
+      "description": "Production Agentic RAG platform on Google Cloud that answers environmental health regulation queries across 62 California counties with grounded, explainable responses.",
+      "tags": ["Agentic RAG", "GCP", "Production"],
+      "status": "Live in production"
+    },
+    {
+      "title": "GovAI Personal Assistant",
+      "description": "AI agent for domain experts that drafts and completes orders, automates repetitive workflows and recommends next actions.",
+      "tags": ["AI Agents", "Automation", "Workflows"],
+      "status": "In development"
+    }
+  ],
+
+  "featured": [
+    {
+      "repo": "maxfuse",
+      "tags": ["PyTorch", "Multimodal", "OOD Detection"]
+    },
+    {
+      "repo": "Federated-Learning",
+      "description": "Production-grade federated learning system for distributed energy prediction: IID vs non-IID study with FedAvg and a full MLOps pipeline.",
+      "tags": ["Federated Learning", "MLOps", "PyTorch"]
+    },
+    {
+      "repo": "UCF_Anomaly_Detection",
+      "description": "Surveillance video-language understanding on UCF-Crime: I3D features, temporal anomaly labels and a dataset published on the Hugging Face Hub.",
+      "tags": ["Computer Vision", "Video", "Hugging Face"]
+    },
+    {
+      "repo": "Intelligent-Resume-Filtering",
+      "description": "Retrieval-augmented resume screening: OCR parsing, schema-guided LLM extraction, Qdrant vector search and a chat interface for ranking candidates.",
+      "tags": ["RAG", "Qdrant", "LLMs"]
+    },
+    {
+      "repo": "flask-k8s-ci-cd-assignment",
+      "description": "End-to-end CI/CD: a Dockerized Flask app deployed to Kubernetes through a Jenkins declarative pipeline with automated rollouts.",
+      "tags": ["Kubernetes", "Jenkins", "Docker"]
+    },
+    {
+      "repo": "Traffic-Sign-Classification",
+      "description": "Traffic sign classification using classical digital image processing techniques: hand-crafted features, no deep learning.",
+      "tags": ["Image Processing", "OpenCV", "Classical CV"]
+    }
+  ],
+
+  "recent_count": 6,
+  "exclude_repos": ["AzeemChaudhry", "Dummy-Frontend"],
+  "language_aliases": { "Jupyter Notebook": "Python" },
+  "language_ignore": ["HTML", "CSS", "SCSS", "Shell", "Dockerfile", "PLpgSQL", "Makefile", "Procfile"]
+}
