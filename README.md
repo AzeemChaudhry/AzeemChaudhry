@@ -93,7 +93,7 @@ AI-powered products · open-source AI infrastructure · agentic workflows · bac
 <!-- RECENT:START -->
 | Repository | Language | Last push |
 |:--|:--:|:--:|
-| [**Portfolio**](https://github.com/AzeemChaudhry/Portfolio) | `TypeScript` | Jul 10, 2026 |
+| [**Warden_Discord**](https://github.com/AzeemChaudhry/Warden_Discord) | `—` | Oct 25, 2026 |
 | [**maxfuse**](https://github.com/AzeemChaudhry/maxfuse) — Multimodal malware classifier with Cross-Modal Attention, MC-Dropout Dynamic Fusion, and… | `Python` | May 03, 2026 |
 | [**Portfolio-website**](https://github.com/AzeemChaudhry/Portfolio-website) | `TypeScript` | Mar 09, 2026 |
 | [**UCF_Anomaly_Detection**](https://github.com/AzeemChaudhry/UCF_Anomaly_Detection) — CV_project | `Jupyter Notebook` | Nov 30, 2025 |
