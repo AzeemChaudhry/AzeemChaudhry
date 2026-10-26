@@ -93,12 +93,12 @@ AI-powered products · open-source AI infrastructure · agentic workflows · bac
 <!-- RECENT:START -->
 | Repository | Language | Last push |
 |:--|:--:|:--:|
+| [**pathsense**](https://github.com/AzeemChaudhry/pathsense) | `Python` | Oct 26, 2026 |
 | [**Warden_Discord**](https://github.com/AzeemChaudhry/Warden_Discord) | `Python` | Oct 26, 2026 |
 | [**Portfolio-website**](https://github.com/AzeemChaudhry/Portfolio-website) | `TypeScript` | Oct 26, 2026 |
 | [**maxfuse**](https://github.com/AzeemChaudhry/maxfuse) — Multimodal malware classifier with Cross-Modal Attention, MC-Dropout Dynamic Fusion, and… | `Python` | May 03, 2026 |
 | [**UCF_Anomaly_Detection**](https://github.com/AzeemChaudhry/UCF_Anomaly_Detection) — CV_project | `Jupyter Notebook` | Nov 30, 2025 |
 | [**Federated-Learning**](https://github.com/AzeemChaudhry/Federated-Learning) | `Jupyter Notebook` | Nov 26, 2025 |
-| [**flask-k8s-ci-cd-assignment**](https://github.com/AzeemChaudhry/flask-k8s-ci-cd-assignment) — Mlops Assingment#03 | `Python` | Nov 20, 2025 |
 <!-- RECENT:END -->
 
 ## Tech Stack
