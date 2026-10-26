@@ -8,7 +8,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-website-roan-kappa.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-nu-ten-12.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaudhryazeem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhry.azeem0308@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=AzeemChaudhry&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
