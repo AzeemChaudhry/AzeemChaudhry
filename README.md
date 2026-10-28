@@ -93,7 +93,7 @@ AI-powered products · open-source AI infrastructure · agentic workflows · bac
 <!-- RECENT:START -->
 | Repository | Language | Last push |
 |:--|:--:|:--:|
-| [**pathsense**](https://github.com/AzeemChaudhry/pathsense) | `Python` | Oct 27, 2026 |
+| [**pathsense**](https://github.com/AzeemChaudhry/pathsense) | `Python` | Oct 28, 2026 |
 | [**Warden_Discord**](https://github.com/AzeemChaudhry/Warden_Discord) | `Python` | Oct 26, 2026 |
 | [**Portfolio-website**](https://github.com/AzeemChaudhry/Portfolio-website) | `TypeScript` | Oct 26, 2026 |
 | [**maxfuse**](https://github.com/AzeemChaudhry/maxfuse) — Multimodal malware classifier with Cross-Modal Attention, MC-Dropout Dynamic Fusion, and… | `Python` | May 03, 2026 |
